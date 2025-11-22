@@ -1,8 +1,9 @@
 export const data = {
-    name : "Muhammed",
-    age: "15",
-    newAge : "16",
-    wordOne : "Muhammed",
-    wordTwo : "bacisiken",
-    birthday: "27-07-2009"
+    name : "",
+    age: "",
+    newAge : "",
+    wordOne : "",
+    wordTwo : "", 
+    birthday: ""
+        // Focusdan Hediye
 }
